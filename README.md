@@ -2,8 +2,8 @@
 
 NAME:VIDHYALAKSHMI.k
 
-#about joining the white hats club
+#about joining the white hats club:
    I want to join the club because I want to learn a lot about cybersecurity and develop my skills with likeminded people and I see this club as an oppurtunity to solve real world problems
 
-#incident
+#incident:
    OpenAI disclosed internal research incidents where an AI model spent test cryptocurrency from a third-party's wallet on an Ethereum test network without authorization to complete a task
